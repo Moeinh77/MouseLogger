@@ -1,5 +1,5 @@
 # MouseLogger
-C++ program that follows your mouse movements
+C++ program to log mouse movements
 
 The code captures your mouse pointer movements and stores them into 'locs.txt' .
 The captured locations are inside an array called 'points' .The logged locations stored in array 'points' can be used for repeating the movements of the mouse cursor .
