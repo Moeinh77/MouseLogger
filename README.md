@@ -11,4 +11,4 @@ Here is a demonstration of of how you can use this code to store the cursor post
 By changing the accuracy you can determine how often locations will be stored if you use the acc=1 (less is better accuracy) then 1000 points will be stored in the array.
 if you increase the 'acc' less points will be stored and as the result there will be lower accuracy in following the cursor.for capturing the movement for a longer period of time you can increase the size of array points.
 
-![](http://www.mediafire.com/view/zzbz6adqju2k92u/bandicam20190205121347307.gif)
+![](http://s8.picofile.com/file/8351330676/1.gif)
