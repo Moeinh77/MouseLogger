@@ -2,6 +2,9 @@
 C++ program that follows your mouse movements
 
 The code captures your mouse pointer movements and stores them into an array called 'points' .locations stored in 'points' can be used for taking control of the mouse cursor .
+I have used 'windows.h' header in c++ for getting and setting the location of cursor .
+ [Link to windows headers guide](https://docs.microsoft.com/en-us/windows/desktop/winprog/using-the-windows-headers)
+
 Here I have showed how you can use this code to store the cursor postion while darwing in paint and then using it again to redraw what you had drawn.
 
 By changing the accuracy you can determine how many locations will be stored if you use the accuracy 1(less is better accuracy) then 1000 points will be stored in the array.
