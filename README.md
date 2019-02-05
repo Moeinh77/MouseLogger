@@ -2,7 +2,7 @@
 C++ program that follows your mouse movements
 
 The code captures your mouse pointer movements and stores them into 'locs.txt' .
-The captured locations are inside an array called 'points' .Locations stored in 'points' can be used for repeating the movements of the mouse cursor .
+The captured locations are inside an array called 'points' .The logged locations stored in array 'points' can be used for repeating the movements of the mouse cursor .
 I have used 'windows.h' header in c++ for getting and setting the location of cursor .
  [Link to windows headers guide](https://docs.microsoft.com/en-us/windows/desktop/winprog/using-the-windows-headers)
 
