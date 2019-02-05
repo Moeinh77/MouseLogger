@@ -15,6 +15,6 @@ We set the accuracy to 1 in the example above.By changing the accuracy you can d
 if you increase the 'acc' less points will be stored and as the result there will be lower accuracy in following the cursor.for capturing the movement for a longer period of time you can increase the size of array points.
 
 
-### If you move the mouse in circul while setting the cursors:
+### And if you move the mouse in circle while setting the cursors:
 
 ![](http://s8.picofile.com/file/8351331818/bandicam20190205121528433.gif)
